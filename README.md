@@ -24,6 +24,7 @@ cd longest_word_game
 3. Install dependencies:
 bundle install
 4. Run the server:
+rails s
 5. Open the game in your browser at `http://localhost:3000`.
 
 Credits
